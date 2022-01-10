@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/awazevr/zap-scan-action/compare/v1.0.0...v1.0.1) (2022-01-10)
+
+
+### Bug Fixes
+
+* attempting to fix mapping ([7385553](https://github.com/awazevr/zap-scan-action/commit/7385553c2e1ebff0ddd0711b8fec9e06cff350f5))
+
 # 1.0.0 (2022-01-10)
 
 
