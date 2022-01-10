@@ -1,3 +1,16 @@
+# 1.0.0 (2022-01-10)
+
+
+### Bug Fixes
+
+* added the correct repo url ([19589ae](https://github.com/awazevr/zap-scan-action/commit/19589aeb729a72fda3c8d7d4d6366740183ddb87))
+* added workflows ([1832411](https://github.com/awazevr/zap-scan-action/commit/18324110c5c5d55f142843cf9ad5aeb7a435b8df))
+
+
+### Features
+
+* initial commit in to the repo ([e5c4046](https://github.com/awazevr/zap-scan-action/commit/e5c4046fc0072673c37f0b573a6009c51a4ac9f7))
+
 ## [1.0.5](https://github.com/awazevr/.github/compare/v1.0.4...v1.0.5) (2022-01-10)
 
 
