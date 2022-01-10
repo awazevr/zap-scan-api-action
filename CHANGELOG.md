@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/awazevr/zap-scan-action/compare/v1.0.1...v1.0.2) (2022-01-10)
+
+
+### Bug Fixes
+
+* added readme.md and also updated licence to MIT ([ddcd590](https://github.com/awazevr/zap-scan-action/commit/ddcd590e87a27430c1bf4a7f16226f7627654d8e))
+
 ## [1.0.1](https://github.com/awazevr/zap-scan-action/compare/v1.0.0...v1.0.1) (2022-01-10)
 
 
