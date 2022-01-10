@@ -17,10 +17,8 @@ inputs:
 runs:
   using: "composite"
   steps:
-    steps:
     - name: Checkout repo
       uses: actions/checkout@v2
-
     - name: ZAP Scan
       uses: zaproxy/action-api-scan@v0.1.0
       with:
