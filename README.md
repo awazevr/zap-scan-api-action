@@ -43,8 +43,6 @@ You can use this composite Action in your own workflow by adding:
 name: OWASP (Zap Scan)
 
 on:
-  push:
-    branches: [ feature/* ]
   workflow_dispatch:
   schedule:
     - cron: "0 9,18 * * 1-5"
