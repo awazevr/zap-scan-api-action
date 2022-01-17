@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/awazevr/zap-scan-action/compare/v1.0.4...v1.0.5) (2022-01-17)
+
+
+### Bug Fixes
+
+* removed unused code ([893c300](https://github.com/awazevr/zap-scan-action/commit/893c3000a4eb3c4ea5a678ff4a54ab4704780fa7))
+
 ## [1.0.4](https://github.com/awazevr/zap-scan-action/compare/v1.0.3...v1.0.4) (2022-01-11)
 
 
