@@ -52,7 +52,6 @@ jobs:
     name: OWASP scan Pre-Prod Test
     runs-on: ubuntu-latest
     steps:
-      # - uses: actions/checkout@v2
       - name: Checkout and Zap Scan
         uses: awazevr/zap-scan-action@v1.0.1
         with:
