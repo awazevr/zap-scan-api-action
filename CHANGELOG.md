@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/awazevr/zap-scan-action/compare/v1.0.5...v1.0.6) (2022-01-20)
+
+
+### Bug Fixes
+
+* renamed action => zap-scan-api-action ([ffcb3a8](https://github.com/awazevr/zap-scan-action/commit/ffcb3a8e32d8231e24f52e1d7527a9db205264ef))
+
 ## [1.0.5](https://github.com/awazevr/zap-scan-action/compare/v1.0.4...v1.0.5) (2022-01-17)
 
 
