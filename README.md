@@ -1,4 +1,4 @@
-# zap-scan-action
+# zap-scan-api-action
 This is a GitHub Action meant to be used as a [composite action](https://docs.github.com/en/actions/creating-actions/creating-a-composite-action) within an existing workflow. This action encapsulates setting up a checkout and zap scan in one step. 
 
 The action encapsulates the following other actions:
@@ -53,7 +53,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout and Zap Scan
-        uses: awazevr/zap-scan-action@v1.0.1
+        uses: awazevr/zap-scan-api-action@v1.0.1
         with:
           target: 'https://xxxxxxxxxx.xxx.xxxxxxx/swagger.json'
           issue_title: 'Name of ZAP Scan Report'
